@@ -182,7 +182,7 @@ Without an API key, the application automatically falls back to rule-based phish
 ---
 ### 📈 Model Performance
 
-![Model Info](screenshots/model info.png)
+![Model Performance](screenshots/model info.png)
 
 ---
 
