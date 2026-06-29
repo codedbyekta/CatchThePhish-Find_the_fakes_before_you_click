@@ -8,7 +8,7 @@ CatchThePhish is a cybersecurity-focused project that detects phishing emails an
 
 ## 🚀 Live Demo
 
-**Streamlit App:** *(Add after deployment)*
+**Streamlit App:** [](https://catchthephish-findthefakesbeforeyouclick-ctffyuikpv2gsfvtpvtdq.streamlit.app/)
 
 ---
 
